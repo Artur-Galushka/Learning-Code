@@ -1,4 +1,1 @@
-# hello-world
-First repository to get accustomed to github
-
-I like dragons.
+Repository for learning coding languages
